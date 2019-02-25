@@ -1,0 +1,48 @@
+<application>
+  <component name="WebDeploymentTransportHostTargets">
+    <option name="stateHostTargets">
+      <list>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="ec13cbcd-c6c9-4243-b14b-2bc3a2e48842" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="deedeb94-8baf-49ba-8c7a-f4639d353f6c" />
+              <id>deedeb94-8baf-49ba-8c7a-f4639d353f6c</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="ec13cbcd-c6c9-4243-b14b-2bc3a2e48842" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="fda4afc0-80b0-4dfd-a03f-f17be6bee4d1" />
+              <id>fda4afc0-80b0-4dfd-a03f-f17be6bee4d1</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/opt/tomcat9" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="ec13cbcd-c6c9-4243-b14b-2bc3a2e48842" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="1c29c96c-ae30-46d4-b219-5161a62e4f10" />
+              <id>1c29c96c-ae30-46d4-b219-5161a62e4f10</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="ec13cbcd-c6c9-4243-b14b-2bc3a2e48842" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="5057bbfd-c26e-4fec-a75e-de035fa52daa" />
+              <id>5057bbfd-c26e-4fec-a75e-de035fa52daa</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/" />
+        </WebDeploymentTransportHostTarget>
+      </list>
+    </option>
+  </component>
+</application>
