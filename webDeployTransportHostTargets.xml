@@ -40,7 +40,7 @@
               <id>5057bbfd-c26e-4fec-a75e-de035fa52daa</id>
             </TransportTarget>
           </option>
-          <option name="targetPath" value="/" />
+          <option name="targetPath" value="/CloudStorage_war_exploded" />
         </WebDeploymentTransportHostTarget>
       </list>
     </option>
