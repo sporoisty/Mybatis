@@ -42,6 +42,26 @@
           </option>
           <option name="targetPath" value="/CloudStorage_war_exploded" />
         </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="aea4fa44-7e21-4109-9c73-96de88f8c698" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="0796a637-c1c0-484f-889c-5d1037df096c" />
+              <id>0796a637-c1c0-484f-889c-5d1037df096c</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="aea4fa44-7e21-4109-9c73-96de88f8c698" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="e796bda9-7c65-409f-be58-cc4885569144" />
+              <id>e796bda9-7c65-409f-be58-cc4885569144</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/opt/tomcat9/webapps" />
+        </WebDeploymentTransportHostTarget>
       </list>
     </option>
   </component>
